@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+}
+
+.container-fluid {
+  margin-top: 2rem;
+  margin-right: 1rem;
+}
+
+.top {
+  background-color: grey;
+}
+
+.col-lg-12  h1{
+  float: right;
+}
+
+div {
+  border: 1px solid grey;
+}
+
+.new {
+  background-color: gold;
+  color: #fff;
+}
